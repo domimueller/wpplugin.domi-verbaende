@@ -1,7 +1,7 @@
 <?php
 
 
-function domi_Partners_cpt() {
+function domi_verbaende_cpt() {
     register_post_type('domi_verbaende_cpt',
         array(
             'labels'      => array(
